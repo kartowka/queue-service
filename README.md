@@ -29,12 +29,12 @@ npm run start
 
 ### Add item to queue
 
-````bash
+```bash
 GET localhost:3000/api/v1/queue/enqueue
-``
+```
 
 ### Check enqueue result
 
 ```bash
 GET localhost:3000/api/v1/queue/result/uuid
-````
+```
